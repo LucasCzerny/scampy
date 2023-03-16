@@ -3,6 +3,8 @@ fashion-mnist_train.csv
 fashion-mnist_test.csv
 fashion-mnist.model
 
+handwriting-mnist.model
+
 # https://github.com/github/gitignore/blob/main/Python.gitignore
 
 # Byte-compiled / optimized / DLL files
