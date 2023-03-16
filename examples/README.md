@@ -30,6 +30,6 @@ This folder includes three files that demonstrate how to to create a Categorical
 
 ### How to use
 
-`python categorical.py`
-`python binary.py`
+`python categorical.py` or
+`python binary.py` or
 `python regression.py`
