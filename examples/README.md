@@ -2,7 +2,7 @@
 
 ## Handwriting MNIST
 
-This project includes a gui application where you can draw digits and then let the neural network classify them.
+This project includes a gui application where you can draw digits and let the neural network classify them.
 
 ### Demo
 
