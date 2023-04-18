@@ -33,4 +33,4 @@ model.test(
     Loss.CategoricalCrossentropy
 )
 
-model.save("model_data/version1.model")
+model.save("model_data/handwriting-mnist.model")

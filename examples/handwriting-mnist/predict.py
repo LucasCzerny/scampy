@@ -6,7 +6,7 @@ from scampy import Model, Util
 import tkinter as tk
 from PIL import Image, ImageChops
 
-model = Model.Sequential.load("model_data/version1.model")
+model = Model.Sequential.load("model_data/handwriting-mnist.model")
 
 def draw(event):
     x, y = event.x, event.y

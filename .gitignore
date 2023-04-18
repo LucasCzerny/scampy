@@ -1,7 +1,7 @@
-# Don't include the fashion-mnist dataset and pretrained model
+# Don't include the fashion-mnist dataset and the pretrained models
 fashion-mnist_train.csv
 fashion-mnist_test.csv
-fashion-mnist.model
+*.model
 
 handwriting-mnist.model
 
