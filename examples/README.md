@@ -2,7 +2,7 @@
 
 ## Handwriting MNIST
 
-This project includes a gui application where you can draw digits and then let the neural network classify them.
+This project includes a gui application where you can draw digits and let the neural network classify them.
 
 ### Demo
 
@@ -30,6 +30,6 @@ This folder includes three files that demonstrate how to to create a Categorical
 
 ### How to use
 
-`python categorical.py`
-`python binary.py`
+`python categorical.py` or
+`python binary.py` or
 `python regression.py`

@@ -26,4 +26,4 @@ Available modules:
 
 ## Examples
 
-See the ["examples" folder](examples/README.md).
+See the ["examples" folder](examples).
